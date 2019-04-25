@@ -8,4 +8,4 @@ Tribute page project for FCC
   - Flex
   - Media queries
 - Responsive design
-- Accesability
+- Accessibility
