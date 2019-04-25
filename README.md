@@ -2,7 +2,6 @@
 Tribute page project for FCC
 
 ## Concepts practiced 
-- gitflow
 - HTML5
 - CSS3
   - Grid
