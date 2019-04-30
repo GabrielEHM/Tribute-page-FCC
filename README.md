@@ -1,5 +1,6 @@
 # Tribute-page-FCC
-Tribute page project for FCC
+Tribute page project for FCC.
+This project can be reached at https://gabrielehm.github.io/Tribute-page-FCC/
 
 ## Concepts practiced 
 - HTML5
